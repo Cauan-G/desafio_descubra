@@ -9,7 +9,7 @@ Criar um componente reutilizável em React Native que exiba diferentes listas.
 Clone este repositório no seu Visual Studio Code ou IDE de sua preferência:
 
    
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/Cauan-G/desafio_descubra.git
 
 Acesse a pasta do projeto Use o comando abaixo para navegar até a pasta do projeto:
 
